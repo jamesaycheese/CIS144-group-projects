@@ -30,7 +30,7 @@ public class ReversingDigits {
             result = result * 10 + removeLast; // store digits as they accumulate
 
         }
-        return result;    
+        return result;    //this is a good method!
     }
     
 }
